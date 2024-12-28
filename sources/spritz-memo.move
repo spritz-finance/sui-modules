@@ -1,4 +1,4 @@
-module 0x8ec6b122474ff451ab1e0559e2c7afe74a76b8f795c7e7ebe00b6c1c9f98f7d0::memo_module {
+module 0x0::memo_module {
     use sui::event;
 
     /// Custom error for invalid memo length

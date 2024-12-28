@@ -9,5 +9,5 @@ published-at = "0x8ec6b122474ff451ab1e0559e2c7afe74a76b8f795c7e7ebe00b6c1c9f98f7
 Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "framework/testnet" }
 
 [addresses]
-spritz = "0x8ec6b122474ff451ab1e0559e2c7afe74a76b8f795c7e7ebe00b6c1c9f98f7d0"
+memo_module = "0x0"
 
